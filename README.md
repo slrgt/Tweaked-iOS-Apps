@@ -50,6 +50,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 		- [MyFitnessPal Premium](#myfitnesspal-premium)
 	- [Duolingo](#duolingo)
 		- [Duolingo Super](#duolingo-super)
+	- [Discord](#discord)
+		- [Vendetta](#vendetta)
+		- [Enmity](#enmity)
 - [Credits](#credits)
 - [Notes](#notes)
 - [Donation](#donation)
@@ -573,7 +576,39 @@ _with Stalky & OnlineNotify_
 </details>
 
 ---
-  
+## Discord
+### Vendetta
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 196.0 | d539e5a | [Link](https://discord.k6.tf/ios/49780/Vendetta.ipa) |
+
+**Note: Please Join the Vendetta's official Discord [server](https://discord.gg/vendetta-mod) to download the plugins and themes**
+
+<details>
+  <summary>Show features.</summary>
+
+- Plugins
+- Themes
+
+</details>
+
+---
+
+### Enmity
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 197.0 | 2.2.6 | [Link](https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa) 
+
+<details>
+  <summary>Show features.</summary>
+
+- Addons
+
+</details>
+
+---
 # Credits
 
 - [Al4ise](https://github.com/Al4ise). Couldn't find any links to support them, will update if I do.
