@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 21/jun/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 03/oct/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -583,7 +583,7 @@ _with Stalky & OnlineNotify_
 | :---: | :---: | :---: |
 | 196.0 | d539e5a | [Link](https://discord.k6.tf/ios/49780/Vendetta.ipa) |
 
-**Note: Please Join the Vendetta's official Discord [server](https://discord.gg/vendetta-mod) to download the plugins and themes**
+**Note: Join the Vendetta's official Discord [server](https://discord.gg/vendetta-mod) to download the plugins and themes.**
 
 <details>
   <summary>Show features.</summary>
@@ -824,6 +824,23 @@ _with Stalky & OnlineNotify_
  	<summary>Show stuff.</summary>
   
 	- [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate).
+  
+	</details>
+
+- [vendetta-mod](https://github.com/vendetta-mod). Support the developers by [sponsoring the project](https://github.com/vendetta-mod/Vendetta).
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Vendetta](https://github.com/vendetta-mod/Vendetta).
+  
+	</details>
+
+- [enmity-mod](https://github.com/enmity-mod). Couldn't find any links to support them, will update if I do.
+
+	<details>
+ 	<summary>Show stuff.</summary>
+  
+	- [Enmity](https://github.com/enmity-mod/tweak).
   
 	</details>
 
