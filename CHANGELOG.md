@@ -1,3 +1,6 @@
+**03/oct/23**
+- Added Vendetta and Enmity for Discord thanks to [@Infernite](https://github.com/Infernite).
+
 **21/jun/23**
 - Twitter | BHTwitter updated to v9.63 | v3.9.1.
 - Youtube Music | YTMusicUltimate updated to v6.06.3 | v1.4.1.
