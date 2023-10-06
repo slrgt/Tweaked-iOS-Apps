@@ -1,5 +1,17 @@
+**05/oct/23**
+- Twitter | BHTwitter updated to v10.3.2 | v4.0.
+- Youtube Music | YTMusicUltimate updated to v6.20.2 | v1.5.2.
+- WhatsApp | Watusi updated to v23.19.86 | v3_1.2.7.
+- Instagram | Rocket updated to v303.1 | v3.8.15.
+- Instagram | Plus updated to v303.1 | v2.50.
+- Added Instagram | BHInstagram v290.1 | v0.0.1.
+- Added TikTok | BHTikTok v30.3.0 | v0.0.1.
+- Spotify | Spotilife updated to v8.8.76 | v1.8.
+- Facebook | Wolf updated to v435.2 | v2.1.
+- Reddit | RedditFilter updated to v2023.37.0 | v1.1.1.
+
 **03/oct/23**
-- Added Vendetta and Enmity for Discord thanks to [@Infernite](https://github.com/Infernite).
+- Added Vendetta and Enmity for Discord thanks to [@Infernite](https://github.com/Infernite)'s PR.
 
 **21/jun/23**
 - Twitter | BHTwitter updated to v9.63 | v3.9.1.
@@ -12,7 +24,7 @@
 **12/jun/23**
 - Twitter | BHTwitter updated to v9.61 | v3.9.1.
 - Youtube Music | YTMusicUltimate updated to v6.05.1 | v1.4.1.
-- Whatsapp | Watusi updated to v23.11.80 | v3_1.1.62.
+- WhatsApp | Watusi updated to v23.11.80 | v3_1.1.62.
 
 ---
 
@@ -41,7 +53,7 @@
 **19/apr/23**
 - Twitter | BHTwitter updated to v9.54 | 3.9.1.
 - Youtube | uYouPlus updated to v18.15.1 | 3.0.
-- Whatsapp | Watusi updated to v23.6.74 | 3_1.1.54.
+- WhatsApp | Watusi updated to v23.6.74 | 3_1.1.54.
 - Instagram | Rocket updated to v279.0 | 3.9.7.
 - Instagram | Plus updated to v279.0 | 2.50.
 

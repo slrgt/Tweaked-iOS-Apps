@@ -1,6 +1,6 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 03/oct/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([last update: 05/oct/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -13,6 +13,8 @@ Installing these via TrollStore should make push notifications work on all apps.
 Sideloading, you'll only get push notifications using a paid developer account. _not sure about local song importing on Spotify_
 
 **All .ipas tested on an iPhone 12 running iOS 15.4.1. Installed via TrollStore and sideloaded via Sideloadly.**
+
+**If onejailbreak.com uses my files without proper credits again I'm stopping this project forever.**
 
 ---
 
@@ -31,8 +33,10 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 		- [Rocket](#rocket)
 		- [Plus](#plus)
 		- [Rhino](#rhino)
+		- [BHInstagram](#bhinstagram)
 	- [TikTok](#tiktok)
 		- [DLTikTok](#dltiktok)
+		- [BHTikTok](#bhtiktok)
 	- [Spotify](#spotify)
 		- [Spotilife](#spotilife)
 		- [Spotilife \& Sposify](#spotilife--sposify)
@@ -67,7 +71,9 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 9.63 | 3.9.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Twitter9.63_BHTwitter3.9.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Twitter9.63_BHTwitter3.9.1TS.ipa) |
+| 10.3.2 | 4.0 | [Sideload](https://github.com/BandarHL/BHTwitter/releases/download/4.0/BHTwitter-sideload.ipa) & [TrollStore](https://github.com/BandarHL/BHTwitter/releases/download/4.0/BHTwitter-TrollStore.ipa) |
+
+**Note: This tweak is maintained by [BandarHL](https://github.com/BandarHL). The download link is directing to [THEIR REPO](https://github.com/BandarHL/BHTwitter).**
 
 **Note: Enable OpenTwitter extension in Safari settings.**
 
@@ -142,14 +148,14 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 6.06.3 | 1.4.1 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.4.1/YTMusicUltimate_v1.4.1_YTM6.06.3.ipa) |
+| 6.20.2 | 1.5.2 | [Link](https://github.com/ginsudev/YTMusicUltimate/releases/download/v1.5.2/YTMUltimate_v1.5.2_YTM6.20.2.ipa) |
 
 **Note: This tweak is maintained by [ginsudev](https://github.com/ginsudev), from [THEIR REPO](https://github.com/ginsudev/YTMusicUltimate). The download link is directing to the repo's latest release.**
 
 <details>
   <summary>Show features.</summary>
 
-- Unlocks all if not most of the Youtube Music Premium features. 
+- Unlocks all if not most of the Youtube Music Premium features.
 - It also adds some extra usability features.
 - [Screenshots](https://user-images.githubusercontent.com/38832025/235781207-6d1ad44e-0c32-4aec-9c75-cb928ca8a0d3.png?raw=true).
 
@@ -163,13 +169,13 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Versions | Download |
 | :---: | :---: | :---: |
-| 23.11.80 | 3_1.1.62 & 4.1.21 & 3.4.3 | [Sideload](https://mega.nz/file/RfhkDCpI#Xd1zVViIM4_yD7WVcoYKpbvBJV9l_bWbfcY3EbFeaQk) & [TrollStore](https://mega.nz/file/wbJjRIQS#eb0LuvVDNMOnAEe2YwYx9ljYmjt-_uN4qE1YScI31CY) |
+| 23.19.86 | 3_1.2.7 & 4.1.23 & 3.4.4 | [Sideload](https://mega.nz/file/sLwCxaII#W6WnLcejIFOB8IHJPP5STCWF6EWnF8lACJarXLw8ikg) & [TrollStore](https://mega.nz/file/8KBHgSqa#6_LnnFoB73gsAxZB64Ug_qvcYeoyVS7HS_AcPAeEbpE) |
 
 **Other versions available:**
-- WA Duplicate: [Sideload](https://mega.nz/file/1Tg0wY7K#gngqp9EuPqLnNlmDsOMopnSvgIjcib9uiNIIFLQii1Q).
-- WA Business: [Sideload](https://mega.nz/file/4eJBjTxb#kMcMEGvpjZQIc7JOoXL5dqHBWRLW2CvQYR1Wf5Y5pvU) | [TrollStore](https://mega.nz/file/9GoS2ICb#Ok0tD8CdN8jk1hJuFunrmMJEmQ6Y6q7EJEHyGd0Q6BU).
+- WA Duplicate: [Sideload](https://mega.nz/file/NORy3SIC#SWLvhe1tKds_6Wew7OHKW9zJ9OqHIfMbm3BqKORX-so).
+- WA Business: [Sideload](https://mega.nz/file/wehQCIpS#cmvJ70HMV0hstLRgXSI7sh9-v1pjUtCmVAQC7yyykpU) | [TrollStore](https://mega.nz/file/VGZUBSzK#Tmx75OLQ6K13AbwmiOyfqZL8jf3Sxew9EvN-nnTgUvg).
 
-**Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release.**
+**Note: This tweak is maintained by [FouadRaheb](https://fouadraheb.com/), from [THEIR REPO](https://github.com/FouadRaheb/Watusi-for-WhatsApp). The download link is directing to the repo's latest release. Guides can be found on their repo as well.**
 
 <details>
   <summary>Show features.</summary>
@@ -186,9 +192,11 @@ _with Stalky & OnlineNotify_
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
 | 236.1 | 3.7.42 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/Rocket3.7.42-Instagram236.1/Instagram236.1_Rocket3.7.42.ipa) |
-| 288.0 | 3.8.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Rocket3.8.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Rocket3.8.8TS.ipa) |
+| 303.1 | 3.8.15 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Instagram303.1_Rocket3.8.15.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Instagram303.1_Rocket3.8.15TS.ipa) |
 
 **Note: Instagram v236.1 with Rocket v3.7.42 are the latest versions without the annoying pop up when downloading stuff.**
+
+**Also: Added Cephei, you can ignore Cephei's error on the latest version.**
 
 <details>
   <summary>Show features.</summary>
@@ -219,9 +227,9 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 288.0 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/21.jun.23/Instagram288.0_Plus2.50TS.ipa) |
+| 303.1 | 2.50 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Instagram303.1_Plus2.50.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Instagram303.1_Plus2.50TS.ipa) |
 
-**Note: You can dismiss compatibility checker when first opening the app.**
+**Note: You can dismiss compatibility checker when first opening the app. You need to login to use this tweak.**
 
 **Also added: libmryipc (tweak dependency).**
 
@@ -293,6 +301,35 @@ _with Stalky & OnlineNotify_
 
 ---
 
+### BHInstagram
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 290.1 | 0.0.1 | [Link](https://github.com/BandarHL/BHInstagram/releases/download/0.0.1/Instagram_290.1_BHInstagram_0.0.1.ipa) |
+
+**Note: This tweak is maintained by [BandarHL](https://github.com/BandarHL). The download link is directing to [THEIR REPO](https://github.com/BandarHL/BHInstagram).**
+
+<details>
+  <summary>Show features.</summary>
+
+- Hide ads.
+- No suggested post.
+- Show like count.
+- Confirm like.
+- Copy description.
+- Download videos.
+- Save profile image.
+- Keep deleted message.
+- Remove last seen.
+- Remove screenshot alert.
+- Unlimited replay of once story.
+- Disable story seen receipt.
+- Padlock.
+
+</details>
+
+---
+
 ## TikTok
 ### DLTikTok
 
@@ -322,12 +359,51 @@ _with Stalky & OnlineNotify_
 
 ---
 
+### BHTikTok
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 30.3.0 | 0.0.1 | [Link](https://github.com/BandarHL/BHTikTok/releases/download/0.0.1/TikTok_30.3.0_BHTikTok_0.0.1.ipa) |
+
+**Note: This tweak is maintained by [BandarHL](https://github.com/BandarHL). The download link is directing to [THEIR REPO](https://github.com/BandarHL/BHTikTok).**
+
+<details>
+  <summary>Show features.</summary>
+
+- No ads.
+- Download videos.
+- Download musics.
+- Show/Hide UI button.
+- Copy video decription.
+- Copy video link.
+- Copy music link.
+- Autoplay next video.
+- Show progress bar.
+- Confirm like.
+- Confirm comment like.
+- Confirm comment dislike.
+- Confirm follow.
+- Save profile image.
+- Copy profile information.
+- Extend bio.
+- Extend comment.
+- Always open in Safari.
+- Changing region.
+- Fake verify blue mark.
+- Fake follower count.
+- Fake following count.
+- Padlock.
+
+</details>
+
+---
+
 ## Spotify
 ### Spotilife
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 8.8.36 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Spotify8.8.36_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Spotify8.8.36_Spotilife1.8TS.ipa) |
+| 8.8.76 | 1.8 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Spotify8.8.76_Spotilife1.8.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Spotify8.8.76_Spotilife1.8TS.ipa) |
 
 **Note: Sideloading with AltStore may not work and I can't do nothing about it. Use Sideloadly for this one.**
 
@@ -412,7 +488,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 415.1 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Facebook415.1_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Facebook415.1_Wolf2.1TS.ipa) |
+| 435.2 | 2.1 | [Sideload](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Facebook435.2_Wolf2.1.ipa) & [TrollStore](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Facebook435.2_Wolf2.1TS.ipa) |
 
 **Note: Using qnblackcat's FBSideloadFix.**
 
@@ -465,7 +541,7 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 2023.19.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/19.may.23/Reddit2023.19.0_RedditFilter1.1.1.ipa) |
+| 2023.37.0 | 1.1.1 | [Link](https://github.com/purp0s3/Tweaked-iOS-Apps/releases/download/05.oct.23/Reddit2023.37.0_RedditFilter1.1.1.ipa) |
 
 **Note: Using level3tjg's RedditSideloadFix.**
   
@@ -512,7 +588,7 @@ _with Stalky & OnlineNotify_
 | :---: | :---: | :---: |
 | 15.0 | 0.0.9-3 | [Link](https://github.com/level3tjg/TwitchAdBlock/releases/download/v15.0_0.0.9-3/TwitchAdBlock_15.0_0.0.9-3.ipa) |
 
-**Note: level3tjg's latest release features latest Twitch update, so currently the download link is directing to [THEIR REPO](https://github.com/level3tjg/TwitchAdBlock).**
+**Note: level3tjg's latest release features latest Twitch version that doesn't break ad blocking, so currently the download link is directing to [THEIR REPO](https://github.com/level3tjg/TwitchAdBlock).**
 
 <details>
   <summary>Show features.</summary>
@@ -576,6 +652,7 @@ _with Stalky & OnlineNotify_
 </details>
 
 ---
+  
 ## Discord
 ### Vendetta
 
@@ -588,8 +665,8 @@ _with Stalky & OnlineNotify_
 <details>
   <summary>Show features.</summary>
 
-- Plugins
-- Themes
+- Plugins.
+- Themes.
 
 </details>
 
@@ -599,16 +676,18 @@ _with Stalky & OnlineNotify_
 
 | App Version | Tweak Version | Download |
 | :---: | :---: | :---: |
-| 197.0 | 2.2.6 | [Link](https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa) 
+| 197.0 | 2.2.6 | [Link](https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa)
 
 <details>
   <summary>Show features.</summary>
 
-- Addons
+- Addons.
 
 </details>
 
 ---
+
+  
 # Credits
 
 - [Al4ise](https://github.com/Al4ise). Couldn't find any links to support them, will update if I do.
@@ -668,6 +747,8 @@ _with Stalky & OnlineNotify_
  	<summary>Show stuff.</summary>
   
 	- [BHTwitter](https://github.com/BandarHL/BHTwitter).
+	- [BHInstagram](https://github.com/BandarHL/BHInstagram).
+	- [BHTikTok](https://github.com/BandarHL/BHTikTok).
 	- [OpenTwitterSafariExtension](https://github.com/BandarHL/OpenTwitterSafariExtension).
   
 	</details>
@@ -826,7 +907,8 @@ _with Stalky & OnlineNotify_
 	- [YTMusicUltimate](https://github.com/ginsudev/YTMusicUltimate).
   
 	</details>
-
+	
+	
 - [vendetta-mod](https://github.com/vendetta-mod). Support the developers by [sponsoring the project](https://github.com/vendetta-mod/Vendetta).
 	<details>
  	<summary>Show stuff.</summary>
@@ -834,6 +916,7 @@ _with Stalky & OnlineNotify_
 	- [Vendetta](https://github.com/vendetta-mod/Vendetta).
   
 	</details>
+
 
 - [enmity-mod](https://github.com/enmity-mod). Couldn't find any links to support them, will update if I do.
 
