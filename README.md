@@ -1,6 +1,61 @@
 # Tweaked iOS Apps
 
-**Tweaks injected into iOS apps.** _([last update: 05/oct/23](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+**Tweaks injected into iOS apps.** _([changelog](https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/CHANGELOG.md))_
+
+---
+---
+---
+
+# If onejailbreak.com uses my files without proper credits again I'm stopping this project forever. (05/october/2023)
+
+### end. 
+
+<a href="https://onejailbreak.com/categories/ipa-files/">
+<img src="https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/zzztired/opsielinkslol.jpg" alt="great work!"> 
+</a>
+
+---
+
+<a href="https://onejailbreak.com/advertising/">
+<img src="https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/zzztired/easymoney.jpg" alt="hmm easy money">
+</a>
+
+---
+
+<a href="https://onejailbreak.com/about/">
+<img src="https://github.com/purp0s3/Tweaked-iOS-Apps/blob/main/zzztired/proudowner.jpg" alt="proud owner"> 
+</a>
+
+---
+
+I'm a dev student who has not much money, not much mental health, no spare time, 
+
+YET, 
+
+made this project to learn more about iOS coding and specially to help the jailbreak/sideloading community by releasing modified .ipa files
+
+no complex work for end users, just read it all and click the download link!
+
+---
+
+I tried contacting them by e-mail, no response whatsoever. Nice way to quietly say ____ ___!
+
+It's not about the money. 
+
+All the time put into this repo, I got 2 **highly** appreciated donations. But the messages, they kept coming here and on Reddit. 
+
+People were actually using this, sharing this, I was being helpful to others.
+
+### What I don't like tho is being used.
+
+<!---
+to anyone who cares
+-->
+
+---
+---
+---
+
 
 You can install these on jailed 14.0-15.4.1 devices using [TrollStore](https://github.com/opa334/TrollStore).
 
@@ -13,9 +68,7 @@ Installing these via TrollStore should make push notifications work on all apps.
 Sideloading, you'll only get push notifications using a paid developer account. _not sure about local song importing on Spotify_
 
 **All .ipas tested on an iPhone 12 running iOS 15.4.1. Installed via TrollStore and sideloaded via Sideloadly.**
-
-**If onejailbreak.com uses my files without proper credits again I'm stopping this project forever.**
-
+  
 ---
 
 # Table of contents
