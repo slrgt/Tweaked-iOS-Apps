@@ -197,8 +197,6 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 
 ---
 
----
-
 ### YoutubeRebornPlus
 
 | App Version | Tweak Version | Download |
