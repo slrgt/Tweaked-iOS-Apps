@@ -173,7 +173,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 | :---: | :---: | :---: |
 | 18.14.1 | 3.0 | [Link](https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa) |
 
-**Note: This tweak is maintained by [qnblackcat](https://github.com/qnblackcat). All developers, contributors, commmits, changelog and more can be checked on [THEIR REPO](https://github.com/qnblackcat/uYouPlus). The download link is directing to the repo's latest release.**
+**Note: This tweak is maintained by [qnblackcat](https://github.com/qnblackcat). All developers, contributors, commits, changelog and more can be checked on [THEIR REPO](https://github.com/qnblackcat/uYouPlus). The download link is directing to the repo's latest release.**
 
 <details>
   <summary>Show features.</summary>
