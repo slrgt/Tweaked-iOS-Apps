@@ -78,6 +78,7 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 		- [BHTwitter](#bhtwitter)
 	- [Youtube](#youtube)
 		- [uYouPlus](#uyouplus)
+  		- [YoutubeRebornPlus](#youtuberebornplus)
 	- [Youtube Music](#youtube-music)
 		- [YTMusicUltimate](#ytmusicultimate)
 	- [WhatsApp](#whatsapp)
@@ -191,6 +192,49 @@ Sideloading, you'll only get push notifications using a paid developer account. 
 - **DontEatMyContent**: prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube.
 - **YTShortsProgress**: always enable progress bar and scrubbing in YouTube Shorts (iPhone only).
 - **YTABConfig**: allow user to control over YouTube A/B testing flags.
+
+</details>
+
+---
+
+---
+
+### YoutubeRebornPlus
+
+| App Version | Tweak Version | Download |
+| :---: | :---: | :---: |
+| 18.40.1 | 4.2.3 | [Link](https://github.com/arichorn/YouTubeRebornPlus/releases/download/v18.40.1-4.2.3/YouTubeRebornPlus_18.40.1_4.2.3.ipa) |
+
+**Note This tweak is maintained by [arichorn](https://github.com/arichorn). All developers, contributors, commits, changelog and more can be checked on [THEIR REPO](https://github.com/arichorn/YouTubeRebornPlus). The download link is directing to the repo's latest release.**
+
+<details>
+  <summary>Show features.</summary>
+	
+1. **YouTube Reborn:**
+- Block all advertisements, Enable background playback & etc. (Video Options)
+- Set default player quality on WiFi & Celullar.
+- Tons of Options such as Video Options, Overlay Options, Tab Bar Options, PiP Options, Shorts Options & etc.
+- Customize the background color of Dark/Light theme. (Colour Options)
+- Download videos in high resolution, also download videos as audio-only.
+2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
+3. **YouPiP:** enable YouTube's **native PiP**. More options are in YouTube Settings => General.
+4. **YTUHD:** unlock VP9 codec and in effect, enables video quality of 2K and 4K. You can configure YTUHD in YouTube's Settings - Video quality preferences.
+5. **YouTube Dislike Return:** brings back Dislike counts under YouTube videos using **ReturnYoutubeDislike**'s API.
+6. **YTClassicVideoQuality:** since YouTube v16.xx, you need one more step to change the video quality. YTClassicVideoQuality brings back the old video quality selector, which is a lot better than the new one.
+7. **YTNoHoverCards:** offer an option to enable/disable the annoying suggested videos show up at the end of the videos.
+8. **YTABGoodies:** allow you to disable some YouTube A/B testing features. It is a combination of several tweaks, such as:
+- YouAreThere: disable "Video paused. Continue watching?" popup in the YouTube app when you play a long video.
+- YouRememberCaption: make YouTube remember your video caption setting (if not already).
+- YTNoCheckLocalNetwork: block the Local Network permission popup.
+9. **NOYTPremium:** remove YouTube Premium upsell alerts.
+10. **YTSpeed**: a toggleable tweak to add 2.25x, 2.5x, 2.75x, 3x, 3.25x, 3.5x, 3.75x, 4x & 5x playback speed options in the video player.
+11. **YTMiniplayerEnabler**: enable Miniplayer for all YouTube videos.
+12. **DontEatMyContent**: prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube.
+13. **YTShortsProgress**: always enable progress bar and scrubbing in YouTube Shorts (iPhone only).
+14. **YTABConfig**: allow user to control over YouTube A/B testing flags.
+15. **YouMute**: Mute/unmute videos in the YouTube Video Player directly.
+16. **YTNoCommunityPosts**: this can disable all the Community Posts on the YouTube app.
+17. **LowContrastMode**: makes the YouTube Interface Low Contrast as possible to make it easier on the eyes.
 
 </details>
 
